@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class IfDemo {
     public static void main(String[] args) {
         int a, b, c; //variables of the same type declared in one statement

@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class Example3 {
     //Difference between int and double
     public static void main(String[] args) {

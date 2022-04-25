@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class GalToLit {
     //this program converts Gallons to Liters
     public static void main(String[] args) {

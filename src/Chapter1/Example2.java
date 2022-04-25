@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class Example2 {
     public static void main(String[] args) {
         int myVar1; //this declares a variable
