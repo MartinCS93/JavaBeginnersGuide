@@ -11,9 +11,9 @@ public class NestVar {
 
         for (count = 0; count <10; count++){
             System.out.println("This is count: " + count);
-            int count; //can't declare count again because it is already declared
+            /* int count; //can't declare count again because it is already declared
             for(count = 0; count<2; count++)
-                System.out.println("This program is in error!");
+                System.out.println("This program is in error!"); */
         }
     }
 }
