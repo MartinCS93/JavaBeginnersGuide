@@ -4,6 +4,7 @@ package Chapter2;
 in an inner scope with the same name as one
 defined in an outer scope
 !!!This program will not compile!!! */
+//error: java: variable count is already defined in method main(java.lang.String[])
 public class NestVar {
     public static void main(String[] args) {
         int count;
