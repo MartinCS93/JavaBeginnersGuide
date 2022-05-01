@@ -15,7 +15,7 @@ public class ShortCircuitOps {
             System.out.println(d + " is a factor of " + n); //this will not be printed
 
         //if (d != 0 & (n % d) == 0) //both expressions are evaluated, allowing a division by zero to occur
-           // System.out.println(d + " is a factor of " + n);
+        // System.out.println(d + " is a factor of " + n);
 
         //Exception in thread "main" java.lang.ArithmeticException: / by zero
     }
